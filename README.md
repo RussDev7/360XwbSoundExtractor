@@ -4,6 +4,8 @@ A small standalone C# utility for extracting audio entries from standard XACT `.
 
 This project was created as a preservation/debugging tool for CastleMiner Z-related asset work. It is not required for normal gameplay, mod loading, or texture pack usage.
 
+![360XwbSoundExtractor preview](360XwbSoundExtractor/_Images/Preview.png)
+
 ## Features
 
 - Reads standard XACT wave bank files using either signature:
